@@ -10,3 +10,4 @@ if count == 2:
     print(f"{temp} is a prime number")
 else:
     print(f"{temp} is not a prime number")
+
